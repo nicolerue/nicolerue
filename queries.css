@@ -1,0 +1,18 @@
+@media (max-width: 908px) {
+  .main-home {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) {
+  .h1 {
+    font-size: 3.2rem;
+  }
+
+  .h2 {
+    font-size: 1.8rem;
+  }
+
+  .line {
+    width: 35rem;
+  }
+}

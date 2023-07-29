@@ -1,0 +1,279 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.main-home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: Inter;
+  /* flex-direction: column; */fh1
+}
+
+.hidden {
+  display: none; 
+}
+
+.line {
+  width: 55rem;
+  background-color: black;
+  height: 0.1rem;
+}
+
+.h1 {
+  font-size: 6.4rem;
+  display: flex;
+  color: #ce7e00;
+  font-family: "Nothing You Could Do";
+}
+.h2 {
+  font-size: 1.8rem;
+  font-weight: 100; 
+  color: grey;
+  display: flex;
+}
+
+.home-left {
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+
+.home-right {
+  margin-top: 8rem;
+  margin-right: 8rem;
+}
+
+.homeBtns {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.btn {
+  border: none;
+  padding: 1.5rem 6rem;
+  background-color: white;
+  border-radius: 1.5rem;
+}
+
+.work {
+  border: 0.2rem solid #ce7e00;
+  font-family: Inter;
+  color: #ce7e00;
+  font-weight: 500;
+  font-weight: bold;
+  font-size: 1.4re;
+}
+.work:hover {
+  color: white;
+  cursor: pointer;
+  background-color: #ce7e00;
+}
+
+.contact {
+  border: 0.2rem solid #274e13;
+  font-family: Inter;
+  color: #274e13;
+  font-weight: 500;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.contact:hover {
+  color: white;
+  cursor: pointer;
+  background-color: #274e13;
+}
+
+.hobbies {
+  border: 0.2rem solid #ab8dc8;
+  font-family: Inter;
+  color: #ab8dc8;
+  font-weight: 500;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.hobbies:hover {
+  color: white;
+  cursor: pointer;
+  background-color: #ab8dc8;
+}
+
+.home {
+  border: 0.2rem solid black;
+  font-family: Inter;
+  color: black;
+  font-weight: 500;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.home:hover {
+  color: white;
+  cursor: pointer;
+  background-color: black;
+}
+
+.nav-btns {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+}
+
+.projects {
+  margin-top: 5rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
+  display: flex;
+  justify-content: space-between;
+}
+.headline {
+  border: 0.2rem solid #ce7e00;
+  font-family: Inter;
+  color: white;
+  font-weight: 500;
+  font-weight: bold;
+  font-size: 1.4rem;
+  padding: 1.5rem 6rem;
+  background-color: white;
+  border-radius: 1.5rem;
+  background-color: #ce7e00;
+}
+
+.project1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4rem;
+}
+
+.project2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.work-description {
+  font-family: Inter;
+  margin-left: 8rem;
+  margin-right: 8rem;
+  border: 0.2rem solid #ce7e00;
+  padding: 2rem;
+  border-radius: 1.5rem;
+  line-height: 1.5;
+  font-size: 1.4rem;
+}
+
+.hobby-icon {
+  height: 5rem;
+  width: 5rem;
+}
+
+.hobbies-items {
+  margin-left: 8rem;
+  margin-right: 8rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+.hobby-headline {
+  font-family: Inter;
+  font-size: 2.4rem;
+}
+
+.hobby-description {
+  font-family: Inter;
+  font-size: 1.8rem;
+}
+
+.contact-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 8rem;
+  gap: 5rem;
+  justify-content: center;
+  margin-bottom: 8rem;
+}
+
+.contact-icon {
+  height: 10rem;
+  width: 10rem;
+}
+
+.contact-icon:hover {
+  fill: #274e13;
+}
+
+.contact1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  font-family: Inter;
+}
+
+.contact2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  font-family: Inter;
+}
+
+.work-section {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  height: 100vh;
+}
+
+.hobbies-section {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  height: 100vh;
+}
+
+.contact-section {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+  height: 100vh;
+}
+
+.home-section {
+  height: 100vh;
+}
+
+.contact-headline {
+  font-size: 1.4rem;
+}
+
+.contact-icon {
+  cursor: pointer;
+}
+
+.morningmoodzimg {
+  width: 33.1rem;
+  height: 21.4rem;
+}
+
+.tripkitsimg {
+  width: 19.1rem;
+  height: 31.9rem;
+}
+
+.home-right-work {
+  margin-left: 10rem;
+}
