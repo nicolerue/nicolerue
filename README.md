@@ -7,7 +7,7 @@
 - 📍Currently located in Vancouver, B.C.  
   
 
-- 🌱 Continuously Learning: JavaScript | TypeScript | React | React Hooks | React Router | Node.js | Express | CSS | SCSS/Sass | HTML | Mocha | Chai | Cypress | TDD | OOP | Functional Programming | GitHub | Git | Accessibility  
+- 🌱 Happiest when creating, connecting, and learning
   
 
 <br/>  
