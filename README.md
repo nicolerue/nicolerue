@@ -5,7 +5,6 @@
   
 
 - 📍Currently located in Vancouver, B.C.
-- 🙏🏽 Grateful for learning opportunities - Accredited Software Engineering Certificate, M.Ed, B.Ed, Honours BBA
 - 🌱 Happiest when creating, connecting, and learning
 - ☀ Values: Contributing, Community, Growth, Learning through mistakes, Joy from the simple things (a cup of coffee in the morning, clean laundry... or those oh-so-beautiful green checkmarks from a successful unit test ahhhhhhhhh 🫠)
   
