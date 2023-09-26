@@ -6,7 +6,7 @@
 
 - 📍Currently located in Vancouver, B.C.  
 - 🌱 Happiest when creating, connecting, and learning
-- ☀ Values: Community, Growth, Learning through mistakes, Joy from the simple things (a cup of coffee in the morning, clean laundry... or those oh-so-beautifully-satisfying green checkmarks from a successful unit test ahhhhhhhhh 🫠)
+- ☀ Values: Community, Growth, Learning through mistakes, Joy from the simple things (a cup of coffee in the morning, clean laundry... or those oh-so-beautiful green checkmarks from a successful unit test ahhhhhhhhh 🫠)
   
 
 <br/>  
