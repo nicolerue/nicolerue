@@ -1,13 +1,12 @@
 
   
 
-### <div align="center">Hi! I'm Nicole Rue, Software Developer happiest when creating, connecting, and learning</div>  
+### <div align="center">Hi! I'm Nicole Rue!</div>  
   
 
 - 📍Currently located in Vancouver, B.C.  
-  
-
 - 🌱 Happiest when creating, connecting, and learning
+- ☀ Values: Community, Growth, Learning through mistakes, Joy from the simple things (a cup of coffee in the morning, clean laundry... or those oh-so-beautifully-satisfying green checkmarks from a successful unit test ahhhhhhhhh 🫠)
   
 
 <br/>  
@@ -16,10 +15,7 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/nicolerue" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://linkedin.com/in/www.linkedin.com/in/nicolerue" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
