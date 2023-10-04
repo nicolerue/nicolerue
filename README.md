@@ -10,7 +10,7 @@
 - Currently Building:
     - Morning Moodz
     - TripKits
-- ^ Inspired by my fellow educators and adventure buddies!
+- ^ Inspired by and created for my fellow educators and adventure buddies!
   
 
 
