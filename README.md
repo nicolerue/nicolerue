@@ -7,7 +7,15 @@
 - 📍Currently located in Vancouver, B.C.
 - 🌱 Happiest when creating, connecting, and learning
 - ☀ Values: Community, Growth, Learning through mistakes, simple pleasures (a cup of coffee in the morning, a dry bath mat... or those oh-so-beautiful green checkmarks from a successful unit test ahhhhhhhhh 🫠)
+- Currently Building:
+    - Morning Moodz
+    - TripKits
+- ^ Inspired by my fellow educators and adventure buddies!
   
+
+
+  ![Screen Shot 2023-10-03 at 5 32 42 PM](https://github.com/nicolerue/nicolerue/assets/124186166/30543664-58af-4112-9640-29ccbed27eb3)
+
 
 <br/>  
 
