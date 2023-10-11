@@ -6,19 +6,6 @@
 
 - 📍Currently located in Vancouver, B.C.
 - 🌱 Happiest when creating, connecting, and learning
-- Currently Building:
-    - Morning Moodz
-    - TripKits
-- ^ Inspired by and created for my fellow educators and adventure buddies!
-  
-
-
-  ![Screen Shot 2023-10-03 at 5 32 42 PM](https://github.com/nicolerue/nicolerue/assets/124186166/30543664-58af-4112-9640-29ccbed27eb3)
-
-
-<br/>  
-
-
 
 
 ## Connect with me  
