@@ -6,7 +6,6 @@
 
 - 📍Currently located in Vancouver, B.C.
 - 🌱 Happiest when creating, connecting, and learning
-- ☀ Values: Community, Growth, Learning through mistakes, simple pleasures (a cup of coffee in the morning, a dry bath mat... or those oh-so-beautiful green checkmarks from a successful unit test ahhhhhhhhh 🫠)
 - Currently Building:
     - Morning Moodz
     - TripKits
