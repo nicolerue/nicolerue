@@ -4,9 +4,9 @@
 ### <div align="center">Hi! I'm Nicole Rue!</div>  
   
 
-- 📍 Currently located in Vancouver, B.C.
-- 🌱 Happiest when creating, connecting, and learning
-- 🧩 Building morningmoodz.com 
+- 📍  Currently located in Vancouver, B.C.
+- 🌱  Happiest when creating, connecting, and learning
+- 🧩  Building morningmoodz.com 
 
 
 ## Connect with me  
