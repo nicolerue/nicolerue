@@ -6,7 +6,6 @@
 
 - 📍  Currently located in Vancouver, B.C.
 - 🌱  Happiest when creating, connecting, and learning
-- 🧩  Building morningmoodz.com 
 
 
 ## Connect with me  
