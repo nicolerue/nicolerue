@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+  
+
+### <div align="center">Hi! I'm Nicole Rue!</div>  
+  
+
+- 📍  Currently located in Vancouver, B.C.
+- 🌱  Happiest when creating, connecting, and learning
+
+
+## Connect with me  
+
+<a href="https://linkedin.com/in/nicolerue" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+>>>>>>> 110004b810247e2da522494e5253f6ceb7e9cfc0
