@@ -65,6 +65,18 @@ html {
   border-radius: 1.5rem;
 }
 
+.btn-mm {
+  padding: 1.5rem 6rem;
+  background-color: white;
+  border-radius: 1.5rem;
+  border: 0.2rem solid #ce7e00;
+  font-family: Inter;
+  color: #ce7e00;
+  font-weight: 500;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
 .work {
   border: 0.2rem solid #ce7e00;
   font-family: Inter;
@@ -237,7 +249,7 @@ html {
 
 .work-section {
   /* margin-top: 8rem;
-  margin-bottom: 8rem; */
+    margin-bottom: 8rem; */
   height: 100vh;
 }
 
@@ -249,7 +261,7 @@ html {
 
 .contact-section {
   /* margin-top: 8rem;
-  margin-bottom: 8rem; */
+    margin-bottom: 8rem; */
   height: 100vh;
 }
 
@@ -277,4 +289,26 @@ html {
 
 .home-right-work {
   margin-left: 10rem;
+}
+
+a {
+  text-decoration: none;
+}
+@media (max-width: 908px) {
+  .main-home {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) {
+  .h1 {
+    font-size: 5.6rem;
+  }
+
+  .h2 {
+    font-size: 1.8rem;
+  }
+
+  .line {
+    width: 35rem;
+  }
 }
