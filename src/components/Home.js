@@ -22,13 +22,13 @@ function Home() {
             Current: Lead Developer on Morning Moodz <br />
             <br />
             Currently Building With: <br />
-            Front-End: JavaScript, React, CSS SASS; <br />
-            Back-End: Node.js, Express, Next.js, MongoDB
+            • Front-End: JavaScript, React, CSS SASS; <br />
+            • Back-End: Node.js, Express, Next.js, MongoDB
             <br />
-            Testing: End to End testing, Test Driven Development, Cypress,
+            • Testing: End to End testing, Test Driven Development, Cypress,
             Mocha, Chai; <br />
-            Workflow & Tools: Git, GitHub, NPM, Restful APIs, Vercel; <br />
-            UX/UI: Responsive Design, WAI/ARIA Design; <br />
+            • Workflow & Tools: Git, GitHub, NPM, Restful APIs, Vercel; <br />
+            • UX/UI: Responsive Design, WAI/ARIA Design; <br />
           </h2>
 
           <div className="line"></div>
