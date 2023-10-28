@@ -17,7 +17,7 @@ function Work() {
 
           <h2 className="h2">
             Full Stack Development: <br /> <br />
-            Currently used by educators across Canada.
+            Currently used by educators across Canada and the U.S.
             <br /> <br />
             Morning Moodz is a research-backed classroom tool for building
             community, literacy, critical thinking, and creativity. It is
