@@ -18,8 +18,7 @@ function Home() {
           <h2 className="h2">
             Happiest when creating, connecting, and learning.
           </h2>
-          <h2 className="h2">
-            Current: Lead Developer on Morning Moodz <br />
+          {/* <h2 className="h2">
             <br />
             Currently Building With: <br />
             • Front-End: JavaScript, React, CSS SASS; <br />
@@ -29,17 +28,17 @@ function Home() {
             Mocha, Chai; <br />
             • Workflow & Tools: Git, GitHub, NPM, Restful APIs, Vercel; <br />
             • UX/UI: Responsive Design, WAI/ARIA Design; <br />
-          </h2>
+          </h2> */}
 
           <div className="line"></div>
           <div className="homeBtns">
-            <button className="work btn home-btn1" onClick={navigateToWork}>
+            {/* <button className="work btn home-btn1" onClick={navigateToWork}>
               Work
-            </button>
+            </button> */}
             {/* <button className="hobbies btn">Hobbies</button> */}
-            <button className="contact btn" onClick={navigateToContact}>
+            {/* <button className="contact btn" onClick={navigateToContact}>
               Contact
-            </button>
+            </button> */}
           </div>
         </div>
         <div className="home-right">
