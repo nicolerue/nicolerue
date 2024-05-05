@@ -10,42 +10,48 @@ function Home() {
   }
 
   return (
-    <section className="home-section">
-      <div className="main-home">
-        <div className="home-left">
-          <h1 className="h1">Hi! I'm Nicole Rue!</h1>
-          {/* <h2 className="h2">Software Developer based in Vancouver B.C., Canada</h2> */}
-          <h2 className="h2">
-            Happiest when creating, connecting, and learning.
-          </h2>
-          {/* <h2 className="h2">
-            <br />
-            Currently Building With: <br />
-            • Front-End: JavaScript, React, CSS SASS; <br />
-            • Back-End: Node.js, Express, Next.js, MongoDB
-            <br />
-            • Testing: End to End testing, Test Driven Development, Cypress,
-            Mocha, Chai; <br />
-            • Workflow & Tools: Git, GitHub, NPM, Restful APIs, Vercel; <br />
-            • UX/UI: Responsive Design, WAI/ARIA Design; <br />
-          </h2> */}
-
-          <div className="line"></div>
-          <div className="homeBtns">
-            {/* <button className="work btn home-btn1" onClick={navigateToWork}>
-              Work
-            </button> */}
-            {/* <button className="hobbies btn">Hobbies</button> */}
-            {/* <button className="contact btn" onClick={navigateToContact}>
-              Contact
-            </button> */}
+    <>
+      <section className="home-section">
+        <div className="video-container">
+          <video className="video-background" autoPlay muted loop>
+            <source src="mm-landing.mp4" type="video/mp4" />
+          </video>
+        </div>
+        <div className="main-home">
+          <div className="home-text">
+            <h1 className="h1">Your story.</h1>
+            <h2 className="h2">
+              Capturing the b-roll moments of your story and of your people.
+            </h2>
           </div>
         </div>
-        <div className="home-right">
-          <img src="nicole.png" alt="nicolerue" />
+      </section>
+      <section className="home-section">
+        <video className="video-background" autoPlay muted loop>
+          <source src="marmot-nelson.mp4" type="video/mp4" />
+        </video>
+        <div className="home-text">
+          <h2 className="h3">Is someone going to interview me too?</h2>
         </div>
-      </div>
-    </section>
+      </section>
+      <section className="about-section">
+        <div className="about-text">Some things to know:</div>
+        <div className="about-text">
+          1. Elopements and/or celebrations with 10 or less humans are my jam.
+        </div>
+        <div className="about-text">
+          2. Willing and excited to pull out my skis, hiking boots, mountain
+          bike, or climbing shoes to capture moments of your story.
+        </div>
+        <div className="about-text">
+          3. I don't use social media, so your video won't get posted anywhere
+          by me. Your moments are just for you and the humans who were with you
+          in those moments.
+        </div>
+        <div className="about-text"></div>
+        <div className="about-text">nicolerue47@gmail.com</div>
+      </section>
+    </>
   );
 }
 
