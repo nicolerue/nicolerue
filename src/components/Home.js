@@ -49,7 +49,7 @@ function Home() {
           in those moments.
         </div>
         <div className="about-text">
-          <a href="mailto:nicole47@gmail.com">
+          <a href="mailto:nicolerue47@gmail.com">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
