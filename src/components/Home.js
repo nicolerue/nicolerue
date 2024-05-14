@@ -21,7 +21,7 @@ function Home() {
           <div className="home-text">
             <h1 className="h1">Your story.</h1>
             <h2 className="h2">
-              Capturing the b-roll moments of your story and of your people.
+              Capturing moments of your story and of your people.
             </h2>
           </div>
         </div>
@@ -34,7 +34,7 @@ function Home() {
           <h2 className="h3">Is someone going to interview me too?</h2>
         </div>
       </section>
-      <section className="about-section">
+      {/* <section className="about-section">
         <div className="about-text">Some things to know:</div>
         <div className="about-text">
           1. Elopements and/or celebrations with 10 or less humans are my jam.
@@ -68,7 +68,7 @@ function Home() {
           <div className="about-text">Cheers!</div>
           <div className="about-text">Nicole Rue</div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 }
