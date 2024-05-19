@@ -19,7 +19,7 @@ function Home() {
         </div>
         <div className="main-home">
           <div className="home-text">
-            <h1 className="h1">Your story.</h1>
+            <h1 className="h1">Your story. Unscripted.</h1>
             <h2 className="h2">
               Capturing moments of your story and of your people.
             </h2>
