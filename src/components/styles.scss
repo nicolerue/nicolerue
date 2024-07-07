@@ -424,6 +424,10 @@ a {
   .main-home {
     flex-direction: column;
   }
+
+  .about-section {
+    flex-direction: column;
+  }
 }
 @media (max-width: 768px) {
   .h1 {
