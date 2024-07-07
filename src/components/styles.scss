@@ -31,20 +31,52 @@ html {
 }
 
 .about-section {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 0.9),
-      rgba(255, 255, 255, 0.4)
-    ),
-    url(../../public/nr.png);
+  // background-image: linear-gradient(
+  //     rgba(0, 0, 0, 0.9),
+  //     rgba(255, 255, 255, 0.4)
+  //   ),
+  //   url(../../public/nr.png);
   height: 100vh;
   background-size: cover;
   display: flex;
-  flex-direction: column;
   gap: 2rem;
   align-items: center;
   background-position: 30% center;
   padding: 3rem;
   // padding-top: 10rem;
+}
+
+.section1 {
+  width: 50vw;
+}
+
+.section2 {
+  width: 50vw;
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensure the image is centered vertically */
+}
+
+.aboutimg {
+  width: 30vw; /* 30% of the viewport width */
+  height: 30vw; /* 30% of the viewport width */
+  max-width: 500px; /* Limit maximum size */
+  max-height: 500px; /* Limit maximum size */
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aboutimg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Maintain aspect ratio and crop as needed */
 }
 
 .hidden {
@@ -60,7 +92,7 @@ html {
 .icon {
   height: 3rem;
   width: 3rem;
-  stroke: white;
+  stroke: black;
   stroke-width: 0.6;
 }
 
@@ -75,6 +107,7 @@ html {
   align-items: center;
   justify-content: center;
   color: white;
+  text-align: center;
   font-family: Roboto;
   font-weight: 100;
 }
@@ -101,7 +134,7 @@ html {
 }
 
 .about-text {
-  color: white;
+  color: black;
   font-family: Roboto;
   font-weight: 100;
   font-size: 2.4rem;
@@ -351,6 +384,17 @@ html {
   );
 }
 
+.about-section2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../../public/ski.JPG);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .contact-headline {
   font-size: 1.4rem;
 }
@@ -398,5 +442,15 @@ a {
     padding-left: 2rem;
     padding-right: 2rem;
     font-weight: 200;
+  }
+
+  .about-text2 {
+    color: red;
+    font-family: Roboto;
+    font-weight: 100;
+    font-size: 7.4rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-align: center;
   }
 }
